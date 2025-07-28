@@ -1,0 +1,18 @@
+# 📝 NoteVault – Secure Notes App (Flask + JSON)
+
+NoteVault is a full-stack web application built using Python (Flask) and HTML/CSS/JS that allows users to sign up, log in, and securely manage their personal notes. It is simple, lightweight, and mobile-friendly — ideal for beginners learning frontend and backend integration.
+
+---
+
+## 🚀 Features
+
+- 🔐 User Signup & Login system
+- 📝 Add, view, and save personal notes
+- 💾 Notes stored securely using JSON files
+- 📱 Mobile-responsive design
+- 🧠 Easy-to-read and modular Flask code
+- 💡 Beginner-friendly project for learning full stack development
+
+---
+
+## 📁 Project Structure
